@@ -1,9 +1,9 @@
-Mensageiro Online
+Replicação de dados
 ===============================================
 
 --------------------
-- Aplicativo com banco de dados firebase e autenticação do google. Desenvolvido para aprender flutter.
 
---------------------
+- Aplicativo básico. Desenvolvido para a matéria de Sistemas Distribuidos.
+- Desenvolvido com Dart e framework Flutter
 
 ![](https://github.com/jacksonn455/chat_app/blob/master/chat.png)
